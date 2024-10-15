@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Quicksell-FronEnd-Assignment/static/css/main.8c727e06.css",
-    "main.js": "/Quicksell-FronEnd-Assignment/static/js/main.a46060b0.js",
-    "static/media/Cancelled.svg": "/Quicksell-FronEnd-Assignment/static/media/Cancelled.360749f102ea2ac68b5841e9f9ff29dd.svg",
-    "static/media/3 dot menu.svg": "/Quicksell-FronEnd-Assignment/static/media/3 dot menu.4caedb468f68b915626e0e35045257b3.svg",
-    "static/media/profile-circle-svgrepo-com.svg": "/Quicksell-FronEnd-Assignment/static/media/profile-circle-svgrepo-com.c84aeaf85c0d7eb995d706746d04dc3d.svg",
-    "static/media/No-priority.svg": "/Quicksell-FronEnd-Assignment/static/media/No-priority.7218b139313728c6a4efa8da6e34852b.svg",
-    "index.html": "/Quicksell-FronEnd-Assignment/index.html",
-    "static/media/Done.svg": "/Quicksell-FronEnd-Assignment/static/media/Done.a5158827c6345b2f141ff681c57cb3ac.svg",
-    "static/media/Img - Low Priority.svg": "/Quicksell-FronEnd-Assignment/static/media/Img - Low Priority.491e21f9000cb90112dea470dbb72650.svg",
-    "static/media/Img - Medium Priority.svg": "/Quicksell-FronEnd-Assignment/static/media/Img - Medium Priority.83775665307e977d62e9b0fc7fb95cc4.svg",
-    "static/media/Img - High Priority.svg": "/Quicksell-FronEnd-Assignment/static/media/Img - High Priority.5024fd0d163cb13c95f2d29079e2974d.svg",
-    "static/media/add.svg": "/Quicksell-FronEnd-Assignment/static/media/add.f84a7335f3fac0026df6cafc2489b65d.svg",
-    "static/media/in-progress.svg": "/Quicksell-FronEnd-Assignment/static/media/in-progress.d4beb72fbc94f765259fc46ecaba9779.svg",
-    "static/media/SVG - Urgent Priority colour.svg": "/Quicksell-FronEnd-Assignment/static/media/SVG - Urgent Priority colour.9b67f75d5459d4d66573ef9f8e6f6841.svg",
-    "static/media/Backlog.svg": "/Quicksell-FronEnd-Assignment/static/media/Backlog.97adf3356b7d2e775ef530f7aed206e0.svg",
-    "static/media/To-do.svg": "/Quicksell-FronEnd-Assignment/static/media/To-do.c01d92afcffeef58b2cd9ae080df1f58.svg",
-    "main.8c727e06.css.map": "/Quicksell-FronEnd-Assignment/static/css/main.8c727e06.css.map",
-    "main.a46060b0.js.map": "/Quicksell-FronEnd-Assignment/static/js/main.a46060b0.js.map"
+    "main.css": "/Quicksell-FrontEnd-Assignment/static/css/main.18702302.css",
+    "main.js": "/Quicksell-FrontEnd-Assignment/static/js/main.ede9a634.js",
+    "static/media/Cancelled.svg": "/Quicksell-FrontEnd-Assignment/static/media/Cancelled.360749f102ea2ac68b5841e9f9ff29dd.svg",
+    "static/media/3 dot menu.svg": "/Quicksell-FrontEnd-Assignment/static/media/3 dot menu.4caedb468f68b915626e0e35045257b3.svg",
+    "static/media/profile-circle-svgrepo-com.svg": "/Quicksell-FrontEnd-Assignment/static/media/profile-circle-svgrepo-com.c84aeaf85c0d7eb995d706746d04dc3d.svg",
+    "static/media/No-priority.svg": "/Quicksell-FrontEnd-Assignment/static/media/No-priority.7218b139313728c6a4efa8da6e34852b.svg",
+    "index.html": "/Quicksell-FrontEnd-Assignment/index.html",
+    "static/media/Done.svg": "/Quicksell-FrontEnd-Assignment/static/media/Done.a5158827c6345b2f141ff681c57cb3ac.svg",
+    "static/media/Img - Low Priority.svg": "/Quicksell-FrontEnd-Assignment/static/media/Img - Low Priority.491e21f9000cb90112dea470dbb72650.svg",
+    "static/media/Img - Medium Priority.svg": "/Quicksell-FrontEnd-Assignment/static/media/Img - Medium Priority.83775665307e977d62e9b0fc7fb95cc4.svg",
+    "static/media/Img - High Priority.svg": "/Quicksell-FrontEnd-Assignment/static/media/Img - High Priority.5024fd0d163cb13c95f2d29079e2974d.svg",
+    "static/media/add.svg": "/Quicksell-FrontEnd-Assignment/static/media/add.f84a7335f3fac0026df6cafc2489b65d.svg",
+    "static/media/in-progress.svg": "/Quicksell-FrontEnd-Assignment/static/media/in-progress.d4beb72fbc94f765259fc46ecaba9779.svg",
+    "static/media/SVG - Urgent Priority colour.svg": "/Quicksell-FrontEnd-Assignment/static/media/SVG - Urgent Priority colour.9b67f75d5459d4d66573ef9f8e6f6841.svg",
+    "static/media/Backlog.svg": "/Quicksell-FrontEnd-Assignment/static/media/Backlog.97adf3356b7d2e775ef530f7aed206e0.svg",
+    "static/media/To-do.svg": "/Quicksell-FrontEnd-Assignment/static/media/To-do.c01d92afcffeef58b2cd9ae080df1f58.svg",
+    "main.18702302.css.map": "/Quicksell-FrontEnd-Assignment/static/css/main.18702302.css.map",
+    "main.ede9a634.js.map": "/Quicksell-FrontEnd-Assignment/static/js/main.ede9a634.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c727e06.css",
-    "static/js/main.a46060b0.js"
+    "static/css/main.18702302.css",
+    "static/js/main.ede9a634.js"
   ]
 }
