@@ -1,70 +1,32 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hi, I'm Manav Jain! 👋
 
-## Available Scripts
 
-In the project directory, you can run:
+## 🚀 About Me
+I'm a full stack web developer...
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Quicksell FrontEnd Assignment :: October 2024
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+For your Quicksell frontend assignment, you're tasked with building a Kanban board application using React JS that interacts with the provided Quicksell API. The key requirements are:
 
-### `npm test`
+The Kanban board should adjust dynamically based on the user's grouping selection.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Grouping options include:
 
-### `npm run build`
+By Status: Tickets are grouped by their current status.
+By User: Tickets are arranged by the assigned user.
+By Priority: Tickets are grouped by priority levels.
+Sorting options include:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+By Priority: Tickets are sorted in descending order based on priority.
+By Title: Tickets are sorted in ascending order by their title.
+A "display" button should allow the user to choose the desired grouping, and the board should update dynamically based on this input.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![internship](https://github.com/ManavJain01/Quicksell-FronEnd-Assignment/blob/main/assets/priority_title.png?raw=true)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![internship](https://github.com/ManavJain01/Quicksell-FronEnd-Assignment/blob/main/assets/status_priority.png?raw=true)
 
-### `npm run eject`
+![internship](https://github.com/ManavJain01/Quicksell-FronEnd-Assignment/blob/main/assets/user_title.png?raw=true)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![internship](https://github.com/ManavJain01/Quicksell-FronEnd-Assignment/blob/main/assets/responsive.png?raw=true)
